@@ -3,6 +3,7 @@ A C++ application for managing First Information Reports (FIRs) using object-ori
 
 ## Features
 Add new FIR records
+
 View all FIRs in the database
 Search for specific FIRs by ID
 
@@ -11,14 +12,14 @@ C++ compiler (supporting C++11 or later)
 VSCode
 
 ## Installation
-Clone the repository: github clone https://github.com/avni-sherni/FIR-management-system
-Compile the program: g++ FIR.cpp
-Run the application: ./a.exe
+•Clone the repository: github clone https://github.com/avni-sherni/FIR-management-system
+•Compile the program: g++ FIR.cpp
+•Run the application: ./a.exe
 
 ## Usage
 The program presents a menu with the following options:
-Add FIR
-View FIRs
-Search FIR
-Exit
+1.Add FIR
+2.View FIRs
+3.Search FIR
+4.Exit
 Follow the on-screen prompts to navigate and use the system.
