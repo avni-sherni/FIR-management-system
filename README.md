@@ -11,7 +11,7 @@ C++ compiler (supporting C++11 or later)
 VSCode
 
 ## Installation
-Clone the repository: github clone https://github.com/SakshamShakya-code/FIRSystemOOPS
+Clone the repository: github clone https://github.com/avni-sherni/FIR-management-system
 Compile the program: g++ FIR.cpp
 Run the application: ./a.exe
 
